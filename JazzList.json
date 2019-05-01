@@ -1,0 +1,821 @@
+[
+ {
+   "Location Title": "21 Club",
+   "Location Address": "21 W 52",
+   "Open Date": {
+      "Year": 1922
+   },
+   "Closed Year": null,
+   "Notes": "The restaurant and bar date to 1922, when the owners started in another location with another name, moving it least three times before arriving in the present location on 52nd Street just off Fifth avenue in 1929 - the height of Prohibition."
+},
+ {
+   "Location Title": "3 Deuces",
+   "Location Address": "72 W 52",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Birdland",
+   "Location Address": "1678 Broadway",
+   "Open Date": {
+      "Year": 1949
+   },
+   "Closed Year": null,
+   "Notes": "The original Birdland was a jazz club in New York City (1949 to 1965), named after Charlie \"Yardbird\" Parker, featuring the worlds best jazz musicians."
+},
+ {
+   "Location Title": "Band Box",
+   "Location Address": "",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Bop City",
+   "Location Address": "1619 Broadway",
+   "Open Date": {
+      "Year": 1949
+   },
+   "Closed Year": 1965,
+   "Notes": ""
+},
+ {
+   "Location Title": "Cafe Zanzibar",
+   "Location Address": "1619 Broadway",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Club Arcadia",
+   "Location Address": "1680-1688 Broadway",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Club Samoa",
+   "Location Address": "62 W 52",
+   "Open Date": {
+      "Year": 1940
+   },
+   "Closed Year": 1943,
+   "Notes": ""
+},
+ {
+   "Location Title": "Hickory House",
+   "Location Address": "144 West 52nd Street",
+   "Open Date": {
+      "Year": 1933
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Kelly's Stables",
+   "Location Address": "137 West 52nd Street",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Latin Quarter",
+   "Location Address": "1580 Broadway",
+   "Open Date": {
+      "Year": 1942
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Leon and Eddies",
+   "Location Address": "",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Royal Roost",
+   "Location Address": "1574 Broadway",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Onyx",
+   "Location Address": "55 West 52nd Street",
+   "Open Date": {
+      "Year": 1927
+   },
+   "Closed Year": 1949,
+   "Notes": "The Onyx Club opened in 1927 at 35 West 52nd Street as a speakeasy by bootlegger Joe Helbock (né Joseph Jerome Helbock; 1896–1973). In February of 1934, after the end of prohibition, the Onyx Club became an authorized club in a new location — 72 West 52nd Street."
+},
+ {
+   "Location Title": "Jimmy Ryan's",
+   "Location Address": "",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Spotlight",
+   "Location Address": "56 West 52nd Street",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Famous Door",
+   "Location Address": "56 West 52nd Street",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Yacht Club",
+   "Location Address": "66 W 52",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Club Carousel",
+   "Location Address": "66 W 52",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Club Downbeat",
+   "Location Address": "66 W 52",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Metropole",
+   "Location Address": "725 7th Avenue",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Alamo Club",
+   "Location Address": "253 West 125th St",
+   "Open Date": {
+      "Year": 1915
+   },
+   "Closed Year": 1925,
+   "Notes": ""
+},
+ {
+   "Location Title": "Arthur's Tabern",
+   "Location Address": "57 Grove St, New York, NY 10014",
+   "Open Date": {
+      "Year": 1937
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Alhambra Ballroom",
+   "Location Address": "2116 Adam Clayton Powell Jr. Boulevard",
+   "Open Date": {
+      "Year": 1929
+   },
+   "Closed Year": 1945,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Apollo Theater",
+   "Location Address": "253 West 125th St.",
+   "Open Date": {
+      "Year": 1934
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Baby Grand Cafe",
+   "Location Address": "319 West 125th",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Bank's Club",
+   "Location Address": "133rd St.",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Barbeque Clu",
+   "Location Address": "169 West 133rd",
+   "Open Date": {
+      "Year": 1923
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Barron's Club",
+   "Location Address": "198 West 134th St",
+   "Open Date": {
+      "Year": 1930
+   },
+   "Closed Year": null,
+   "Notes": "The building formerly held Barron WiIlken's Exclusive Club (aka Barron's Club, where Duke Ellington played early in the 1920s. It later beacme the Theatrical Grill, managed by Dickie Wells. Later that became the Pirates Den then the Red Pirate then finally, Clark Monroes Uptown House. At that point the entrance was moved from 2275 7th Ave to 198 west 134th."
+},
+ {
+   "Location Title": "Basement Brownies",
+   "Location Address": "152 West 133rd St.",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Brittwood Bar",
+   "Location Address": "594 Lenox",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Blue Note",
+   "Location Address": "131 W 3rd St, New York, NY 10012",
+   "Open Date": {
+      "Year": 1981
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Capitol Palace",
+   "Location Address": "575 Lenox",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Clark Monroe's Uptown House",
+   "Location Address": "198 West 134th St",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "Clark Monroe's Uptown House, sometimes shortened to Monroe's Uptown House or simply Monroe's, was a nightclub in New York City. Along with Minton's Playhouse, it was one of the two principal clubs in the early history of bebop jazz."
+},
+ {
+   "Location Title": "Cleopatra's Needle",
+   "Location Address": "2485 Broadway, New York, NY 10025",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Club Harlem",
+   "Location Address": "145th and 7th",
+   "Open Date": {
+      "Year": 1952
+   },
+   "Closed Year": null,
+   "Notes": "Clark Monroe opened the Uptown House in the 1930s at 198 West 134th St in Harlem, in a building which formerly held Barron's Club (where Duke Ellington worked early in the 1920s) and the Theatrical Grill. Monroe moved the club to 52nd Street in 1943 (next to the Downbeat Club., says one book)., and opened a second club, The Spotlite, in December 1944. (Wikipedia)"
+},
+ {
+   "Location Title": "Connie's Inn",
+   "Location Address": "2221 7th Ave",
+   "Open Date": {
+      "Year": 1923
+   },
+   "Closed Year": 1934,
+   "Notes": "1964 Connie= Conrd Immerman - Lithuanian - unlike the Cotton CLub it wasnt whites only)(connie was in the basment, above it was a bar"
+},
+ {
+   "Location Title": "Cotton Club",
+   "Location Address": "644 Lenox Avenue",
+   "Open Date": {
+      "Year": 1923
+   },
+   "Closed Year": 1940,
+   "Notes": "The Cotton Club was a New York City nightclub located in Harlem on 142nd Street and Lenox Avenue from 1923 to 1935, then briefly in the midtown Theater District from 1936 to 1940. The club operated most notably during the United States' era of Prohibition"
+},
+ {
+   "Location Title": "Count Basie's Lounge",
+   "Location Address": "2245 7th Avenue",
+   "Open Date": {
+      "Year": 1955
+   },
+   "Closed Year": 1964,
+   "Notes": ""
+},
+ {
+   "Location Title": "Covan's Morocco Club",
+   "Location Address": "148 West 133rd",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Dickie Wells Shim Sham Club",
+   "Location Address": "169 West 133rd",
+   "Open Date": {
+      "Year": 1932
+   },
+   "Closed Year": 1942,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Django",
+   "Location Address": "2 6th Ave, New York, NY 10013",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Edith's Clam House",
+   "Location Address": "146 West 133rd St.",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Fat Cat",
+   "Location Address": "75 Christopher St, New York, NY 10014",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Flat Room ",
+   "Location Address": "37 W 26th St, New York, NY 10010",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Gee Haw Stables",
+   "Location Address": "113 West 132nd Street",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "The after hours club was so-named because there was a sculpted horse's head at the entrance. Much of Art Tatum's God is in the House LP was recorded here on a tape recorder in 1941."
+},
+ {
+   "Location Title": "Golden Gate Ballroom",
+   "Location Address": "640 Lenox Avenue",
+   "Open Date": {
+      "Year": 1939
+   },
+   "Closed Year": 1950,
+   "Notes": ""
+},
+ {
+   "Location Title": "(Harry Hansberry's) Clam House",
+   "Location Address": "146 West 133rd",
+   "Open Date": {
+      "Year": 1928
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Havana San Juan 138th and Broadway",
+   "Location Address": "",
+   "Open Date": {
+      "Year": 1960
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Herman's Inn",
+   "Location Address": "2493 Seventh Avenue",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Hoofers",
+   "Location Address": "2235 7th Ave",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Hot Cha",
+   "Location Address": "2280 7th Ave",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Jazz Standard",
+   "Location Address": "116 E 27th St, New York, NY 10016",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Jazz Gallery",
+   "Location Address": "1160 Broadway 5th floor, New York, NY 10001",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Jules Bistro",
+   "Location Address": "65 St Marks Pl, New York, NY 10003",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Lafayette Theater",
+   "Location Address": "2227 7th Ave.",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "The Rhythm Club that was under the Lafayette became the Hoofer's CLub"
+},
+ {
+   "Location Title": "Lenox Lounge",
+   "Location Address": "288 Lenox",
+   "Open Date": {
+      "Year": 1939
+   },
+   "Closed Year": null,
+   "Notes": "Zebra Room inside"
+},
+ {
+   "Location Title": "Lincoln Theater",
+   "Location Address": "58 West 135th Street",
+   "Open Date": {
+      "Year": 1909
+   },
+   "Closed Year": 1964,
+   "Notes": ""
+},
+ {
+   "Location Title": "Mexico's",
+   "Location Address": "154 West 133",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Minton's Playhouse",
+   "Location Address": "206 west 118th",
+   "Open Date": {
+      "Year": 1938
+   },
+   "Closed Year": 1974,
+   "Notes": " reopened 2006 Jazz Club and bar located on the 1st floor of the Cecil Hotel"
+},
+ {
+   "Location Title": "Monroe's Uptown House",
+   "Location Address": "198 West 134th Street",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Nest",
+   "Location Address": "169 West 133rd",
+   "Open Date": {
+      "Year": 1923
+   },
+   "Closed Year": 1932,
+   "Notes": "later the Rhythm Club (upstairs The Barbeque Club)"
+},
+ {
+   "Location Title": "Nublu Classic",
+   "Location Address": "62 Avenue C, New York, NY 10009",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Paris Blue",
+   "Location Address": "2021 Adam Clayton Powell Jr Blvd, New York, NY 10027",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Palace Ballroom",
+   "Location Address": "280 West 155th ",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "The Rockland Palace Ballroom; originally the State Palace Ballroom"
+},
+ {
+   "Location Title": "The Plantation Club",
+   "Location Address": "80-82 West 126th Street",
+   "Open Date": {
+      "Year": 1940
+   },
+   "Closed Year": null,
+   "Notes": "The white mafia that ran the Cotton Club did not take this gesture so kindly and the following headline would run in the NY Times on the day that was to be the debut of the new club:\n\n\"GANGSTERS WRECK HARLEM NIGHT CLUB; Nine, With Crowbars, Knives and Axes Do $25,000 Damage to the Plantation. HERD EMPLOYES TO CELLAR Rip Up Dance Floor, Smash Mirrors and Destroy 200 Costumes. RAID LAID TO RACKETEERS Management Suspects Invaders, Who Escaped, Were Sent by Rivals of New Resort.\""
+},
+ {
+   "Location Title": "Pod's and Jerry's",
+   "Location Address": "168 West 133rd",
+   "Open Date": {
+      "Year": 1925
+   },
+   "Closed Year": 1935,
+   "Notes": "Pod's and Jerry's, officially the Catagonia Club, was a cabaret and jazz club. It was one of the thriving speakeasies during the Prohibition era when the street was known as \"Swing Street\". It was established in 1925 by Charles \"Pod\" Hollingsworth and Jeremiah (Jerry) Preston. After the end of Prohibition in 1933 the club was renamed The Log Cabin, which was one of the last clubs to close on 133rd street in 1948, long after its demise."
+},
+ {
+   "Location Title": "Radium Club",
+   "Location Address": "654 Lenox",
+   "Open Date": {
+      "Year": 1920
+   },
+   "Closed Year": 1925,
+   "Notes": ""
+},
+ {
+   "Location Title": "Reuben's",
+   "Location Address": "242 West 30th St.",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "a small piano club; Art Tatum played here. Owned by Reuben Harris who played along with two whiskbrooms over a folded newspaper"
+},
+ {
+   "Location Title": "Renaissance Ballroom",
+   "Location Address": "150 West 138th",
+   "Open Date": {
+      "Year": 1915
+   },
+   "Closed Year": 1964,
+   "Notes": ""
+},
+ {
+   "Location Title": "",
+   "Location Address": "",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Rhythm Club",
+   "Location Address": "169 West 133rd",
+   "Open Date": {
+      "Year": 1920
+   },
+   "Closed Year": null,
+   "Notes": "came after The Nest and before the Hoofer Club, later moved to 168 West 132nd 1932 then was later taken over by the Hoofer's Club"
+},
+ {
+   "Location Title": "Rue B",
+   "Location Address": "188 Avenue B, New York, NY 10009",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "St. Nick's Jazz Pub",
+   "Location Address": "773 Street Nicholas Ave.",
+   "Open Date": {
+      "Year": 1940
+   },
+   "Closed Year": null,
+   "Notes": " renamed The Pink Angel in 1950); renamed in the 60's)"
+},
+ {
+   "Location Title": "Savoy Ballroom",
+   "Location Address": "596 Lenox Avenue",
+   "Open Date": {
+      "Year": 1926
+   },
+   "Closed Year": 1958,
+   "Notes": ""
+},
+ {
+   "Location Title": "Showman's Bar",
+   "Location Address": "375 West 125th",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "It was originally located next to the Apollo Theater at 267 West 125th Street, where it was a hangout for the performers. Showman's moved 3 times in 42 years."
+},
+ {
+   "Location Title": "Small's Paradise",
+   "Location Address": "",
+   "Open Date": {
+      "Year": 1925
+   },
+   "Closed Year": 1980,
+   "Notes": "Seventh Avenue at the south west corner of 135th Street. (This later became Big Wilt's Small's Paradise; Now an International House of Pancakes is in the space.)"
+},
+ {
+   "Location Title": "Smalls",
+   "Location Address": "183 W 10th St, New York, NY 10014",
+   "Open Date": {
+      "Year": 1994
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Smoke Jazz & Supper Club",
+   "Location Address": "2751 Broadway, New York, NY 10025",
+   "Open Date": {
+      "Year": 1999
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Snookie's Sugar Bowl",
+   "Location Address": "",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Sugar Cane Club",
+   "Location Address": "2212 5th Ave",
+   "Open Date": {
+      "Year": 1917
+   },
+   "Closed Year": 1925,
+   "Notes": ""
+},
+ {
+   "Location Title": "Sugar Ray's",
+   "Location Address": "2074 7th Ave",
+   "Open Date": {
+      "Year": 1950
+   },
+   "Closed Year": null,
+   "Notes": "owned by boxer Sugar Ray Robinson"
+},
+ {
+   "Location Title": "Theatrical Grill",
+   "Location Address": "198 West 134th St.",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": "Clark Monroe opened the Uptown House in the 1930s at 198 West 134th St in Harlem, in a building which formerly held Barron's Club (where Duke Ellington worked early in the 1920s) and the Theatrical Grill. "
+},
+ {
+   "Location Title": "Tilllie's",
+   "Location Address": "148 West 133rd",
+   "Open Date": {
+      "Year": 1926
+   },
+   "Closed Year": null,
+   "Notes": "later it was Monette's Supper CLub where legend has it that John Hammond 1st heard 17 year old Billie Holliday (fm NYT) (Now, since, 2006, it's Bill's Place - a small jazz club)"
+},
+ {
+   "Location Title": "The Ubangi Club",
+   "Location Address": "131st. & 7th",
+   "Open Date": {
+      "Year": 1934
+   },
+   "Closed Year": 1937,
+   "Notes": "The Ubangi Club was opened in 1934 by Glady's Bently a famous lesbian singer who sang in tux and tails. Her club took over the space that had been occupied by Connie's Inn from 1923 to1934. Both clubs were in the basement."
+},
+ {
+   "Location Title": "The Iridium",
+   "Location Address": "1650 Broadway, New York, NY 10019",
+   "Open Date": {
+      "Year": 1994
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "The Yeah Man",
+   "Location Address": "2350 7th Ave at 138th St.",
+   "Open Date": {
+      "Year": 1925
+   },
+   "Closed Year": 1960,
+   "Notes": ""
+},
+ {
+   "Location Title": "Turntable Chicken Jazz",
+   "Location Address": "20 West 33rd Street, New York, NY 1000",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Village Vanguard",
+   "Location Address": "178 7th Ave S, New York, NY 10014",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Winnie Jazz Bar",
+   "Location Address": "63 W 38th St, New York, NY 10018",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+},
+ {
+   "Location Title": "Zinc Bar",
+   "Location Address": "82 W 3rd St, New York, NY 10012",
+   "Open Date": {
+      "Year": null
+   },
+   "Closed Year": null,
+   "Notes": ""
+}
+]
